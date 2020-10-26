@@ -1,5 +1,5 @@
 # TAMID-Link-Shortener
-[https://www.2tmid.xyz/](https://www.2tmid.xyz/)
+[Project Link](https://www.2tmid.xyz/)
 
 **Using the REST API.**
 
