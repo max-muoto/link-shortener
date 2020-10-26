@@ -29,3 +29,11 @@ You will receive a JSON response that looks likes this including the short URL:
 	"short_url": "https://www.2tmid.xyz/WYOQUWRX"  
 }  
 ```
+**Development Process**
+
+**What were some challenges that I faced?**  
+Some challengs that I faced where that 
+
+
+**What were some challenges that I faced?**  
+
