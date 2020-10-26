@@ -19,7 +19,8 @@ If the short URL cannot be found, an error message is returned.
 **POST a Long URL**  
 POST a URL and receive a short URL. To create a short URL using the API, you simply do this:  
 
-https://www.2tmid.xyz/api/create.php?long=http://www.linkedin.com  
+> https://www.2tmid.xyz/api/create.php?long=http://www.linkedin.com  
+
 You will receive a JSON response that looks likes this including the short URL:  
 ```
 {  
