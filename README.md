@@ -35,7 +35,9 @@ You will receive a JSON response that looks likes this including the short URL:
 
 ![alt text](https://d31l11kq7rju10.cloudfront.net/vn1y%2Fpreview%2F35180779%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1603674383&Signature=aqfecGIWsWjkIMehnnyh8dQCxPqbTp4zVuMp9DX445~U9oFgEOB8yZaU2KH60r1JKqGgRS7hfkcxIyX-X4SJrupAzPEzeovSiDX6Z6DfCAF-5O9UDrBd2EHXwKjmiA618gN7R5VHWawDc1NQr9Aoqbb3FAKdy8anwJVfW8uT2AnqxWom5jxExS32OcHMWA5VPhWfc3KeJ94z5H73M87izUilomVOfdEsz4qznjUSEDA2JKrsme-auvhkAP8NAsSYMyQMG8YEWNNpD66jyYVL0YS8yzOoWwYTDMxFhXfAT1cQqAQacVU0aAzi95osWjiLwx3IA94orYA1RBBm10qdrA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 - I built out the backend using PHP and connected it to my SQL database  
+![alt text](https://d3lbwkmaao72si.cloudfront.net/1g4y%2Fpreview%2F35184385%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1603674604&Signature=U7JNNDB8o~fxjP4~OZF2d525iWLUv3uiwPuYThZ9CU8kQ7QDVI9GakSxC72YY50F-dOckBnh9ViJekJp6We-6~YGMIDQQR6xobDOOQFrv0AU08BhfOEHZUyPkJuDbksSRxFAM3smx2bcGSvUU~--ogvcCyJBfHfvOGc3dZtz3YbOaHIDkEHPSguvKz9nYkhuQVM0LrJUWRstJMmv~rqEPNmkzMQQr~yNfnxWgTSQEPgcQWRRYa24CIipKVGZYdSNgdPewSQLK~IS1W4vfNIIZVqpXVCXsQFqzPivuly6DnDATXljGsJnCzLDEhotXTDF98hgfxiW0M07LjGplCZAFg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 - I used JSON to show responses to long and short URL requests  
+- I built out the frontend in HTML/CSS and JavaScript and connected it to the backend using PHP and JQuery
 
 **What were some challenges that I faced?**  
 Some challengs that I faced where that 
