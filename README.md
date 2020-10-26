@@ -30,6 +30,11 @@ You will receive a JSON response that looks likes this including the short URL:
 }  
 ```
 **Development Process**
+- I started by purchasing the domain for the site and getting it secured using sslforfree.com.
+- I then created a SQL database to hold long URLS, short URLs, and counters for usage of short URLs
+https://jumpshare.com/v/Ga2UsxjP6Bfki4NiBXor
+- I built out the backend using PHP and connected it to my SQL database
+- I used JSON to show responses to long and short URL requets
 
 **What were some challenges that I faced?**  
 Some challengs that I faced where that 
