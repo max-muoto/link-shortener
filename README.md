@@ -34,16 +34,19 @@ You will receive a JSON response that looks likes this including the short URL:
 - I then created a SQL database to hold long URLS, short URLs, and counters for usage of short URLs  
 
 ![alt text](https://d31l11kq7rju10.cloudfront.net/vn1y%2Fpreview%2F35180779%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1603674383&Signature=aqfecGIWsWjkIMehnnyh8dQCxPqbTp4zVuMp9DX445~U9oFgEOB8yZaU2KH60r1JKqGgRS7hfkcxIyX-X4SJrupAzPEzeovSiDX6Z6DfCAF-5O9UDrBd2EHXwKjmiA618gN7R5VHWawDc1NQr9Aoqbb3FAKdy8anwJVfW8uT2AnqxWom5jxExS32OcHMWA5VPhWfc3KeJ94z5H73M87izUilomVOfdEsz4qznjUSEDA2JKrsme-auvhkAP8NAsSYMyQMG8YEWNNpD66jyYVL0YS8yzOoWwYTDMxFhXfAT1cQqAQacVU0aAzi95osWjiLwx3IA94orYA1RBBm10qdrA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
-- I built out the backend using PHP and connected it to my SQL database  
+- I built out the backend using PHP and connected it to a MySQL database  
 ![alt text](https://d3lbwkmaao72si.cloudfront.net/1g4y%2Fpreview%2F35184385%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1603674604&Signature=U7JNNDB8o~fxjP4~OZF2d525iWLUv3uiwPuYThZ9CU8kQ7QDVI9GakSxC72YY50F-dOckBnh9ViJekJp6We-6~YGMIDQQR6xobDOOQFrv0AU08BhfOEHZUyPkJuDbksSRxFAM3smx2bcGSvUU~--ogvcCyJBfHfvOGc3dZtz3YbOaHIDkEHPSguvKz9nYkhuQVM0LrJUWRstJMmv~rqEPNmkzMQQr~yNfnxWgTSQEPgcQWRRYa24CIipKVGZYdSNgdPewSQLK~IS1W4vfNIIZVqpXVCXsQFqzPivuly6DnDATXljGsJnCzLDEhotXTDF98hgfxiW0M07LjGplCZAFg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 - I used JSON to show responses to long and short URL requests  
 - I built out the frontend in HTML/CSS and JavaScript (with the Bootsrap framework) and connected it to the backend using PHP and JQuery
 ![alt text](https://d3lbwkmaao72si.cloudfront.net/5g4y%2Fpreview%2F35184389%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1603674713&Signature=Z3grscGL8L4aUeQpG~5SIB3C3GEYXmRsc-tQK-wLvlYjy17W9iS4byYzFqcYnjaRX6FgXZcDCm3Etr8T--S7QzCxAmLLVfYF9AAJERezd7cUWqJE7PVcdab1Uy3XUbodZqEFseAUEGdzMUKF~U-p0QpJdeDNNjPqZjdlJGepp4kuF0s927zkveWIoplEsS-xAsRfk1HMxpOcIqCYetVXMMhetzE~jj~-blQcJQijDUTWh4O5B~g9mIM8K0kGUdZdLFDIvO2a8B2m1mn8rB9KOf61JFcgkhyUgeeQ5EY5IFumtXKZkEEKEi9I5VXTXe-dKJOZa1CIrknMbbSbXjevNQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 
 **What were some challenges that I faced?**  
-- Getting replicate links to be thrown out. Had to develop a while statement to check the SQL database for current entries of the short link until the link was new
+- Getting replicate short links to be thrown out. Had to develop a while statement to check the SQL database for current entries of the short link until the link was new
 - 
 
 
 **What are some things that you would change if you had more time?**  
+- Making it so that the user can acccess usage statistics on the frontend
+- Creating a copy botton on the website so the user doesn't have to do it themself
+- 
 
