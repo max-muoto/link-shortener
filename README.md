@@ -34,7 +34,7 @@ You will receive a JSON response that looks likes this including the short URL:
 **Development Process**
 - Started by purchasing the domain for the project, and setup the domain on a cloud server.
 - Secured the site using an SSL certificate from sslforfree.com.
-- Created a MySQL database with necessary fields to store the information i need.  
+- Created a MySQL database with necessary fields to store the information I need.  
 ![alt text](https://www.2tmid.xyz/images/image1.png)
 - Built out the backend using basic PHP that talks to my MySQL database.  
 - API (in the /api/ directory) serves up responses via JSON providing a REST webservice to creating and resolving short URLs 
