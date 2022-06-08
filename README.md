@@ -1,7 +1,7 @@
 # Link-Shortener
 [Website Link](https://www.2tmid.xyz/)
 
-**Using the REST API.**
+**Using a REST API.**
 
 **GET a Short URL**  
 To get the long url from a short url via a GET call, you simply do this:  
